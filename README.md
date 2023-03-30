@@ -24,5 +24,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  ## Communities ❤️
+  <img src="March Event Post.png"></img>
+  
+</p>
+
+
 <hr/>
 
