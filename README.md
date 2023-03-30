@@ -23,7 +23,7 @@
 </p>
 
  <h1 align = "center"> Communities ❤️ </h1>
-  <img src ="Communities-GitHub.svg
+  <img src ="Communities-GitHub.svg"
        width = "1300"
        height = "200"
        align = "center">
